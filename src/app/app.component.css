@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+.example-icon {
+    padding: 0 10px;
+}
+
+.example-spacer {
+    flex: 1 1 auto;
+}
